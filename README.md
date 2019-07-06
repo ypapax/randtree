@@ -4,7 +4,7 @@ go install
 ```
 randtree -nodes 6 -maxval 100
 ```
-Prints binary search tree with 6 nodes and maximum value less than 100
+Prints binary search tree with random integer values: 6 nodes and maximum value less than 100
 ```
 {
    "right/": {
